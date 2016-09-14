@@ -1,4 +1,3 @@
-package repocheck;
 import java.util.Random;
 
 public class Emailgenerator {
